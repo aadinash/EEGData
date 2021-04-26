@@ -4,3 +4,9 @@
 
 ### Med 2
 - Same as 1, less "awake" in the begining section, a good measure of "awake" is the last bit of the recording. 
+
+### Med 3
+- Same as 1
+
+### Wake 1
+- Data of dubious quality -- body may have been earthed.
