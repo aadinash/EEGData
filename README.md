@@ -8,7 +8,7 @@
 ### Med 3
 - Same as 1
 ### Med 5
-- Maybe 3 is just bad.
+- put my face in a pillow -- could have affected it. 
 
 ### Wake 1
 - Data of dubious quality -- body may have been earthed.
