@@ -7,6 +7,11 @@
 
 ### Med 3
 - Same as 1
+### Med 5
+- Maybe 3 is just bad.
 
 ### Wake 1
 - Data of dubious quality -- body may have been earthed.
+
+### Wake 4
+- Disregard all points after 7000 -- probes disconected.
