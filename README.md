@@ -15,8 +15,3 @@
 
 ### Wake 4
 - Disregard all points after 7000 -- probes disconected.
-
-### W/M 6
-- Better probe placement, likely more accurate. 
-### W/M 7
-- same as wm6
